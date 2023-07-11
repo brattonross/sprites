@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json.schemastore.org/package.json",
+  "name": "@brattonross/sprites",
+  "version": "0.0.1",
+  "description": "A CLI for generating spritesheets and React components from a directory of SVGs.",
+  "repository": "https://github.com/brattonross/sprites",
+  "bin": {
+    "sprites": "./bin/sprites"
+  },
+  "license": "MIT"
+}
